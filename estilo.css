@@ -17,6 +17,7 @@ body {
     height: 110vh; /* Preenche a altura total da viewport */
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
+    background-image: url('/DALL·E\ 2024-09-04\ 00.14.30\ -\ A\ background\ image\ designed\ for\ a\ web\ project\ focusing\ on\ the\ Olympics\,\ featuring\ a\ light\ color\ palette\ that\ complements\ the\ colors\ of\ Paris.\ The\ desi.webp');
 }
 
 /* Estiliza os títulos h1 */
