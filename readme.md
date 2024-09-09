@@ -1,6 +1,4 @@
-
-
-![imagem do projeto](https://github.com/user-attachments/assets/fc9e844c-3554-43cc-ac23-ef9d16f077fd)
+![imagem do projeto](https://github.com/user-attachments/assets/946aeac2-fa66-42e6-805b-6450d2ffa5f1)
 
 # Atletas do Brasil
 
